@@ -2,5 +2,4 @@
 
 ![image](/assets/catglasses.jpg)
 
-### Markdown
 
