@@ -5,7 +5,8 @@ subtitle: This is where I will tell my friends way too much about me!
 ---
 # Heyyo! :wave: welcome to my portfolio!
 I am a Ph.D. student at AINS lab. I apply AI algorithms (machine-learning) to wireless networks.
-
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
 # Now Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l0d5u4xvdcvavv2a2of81kx07&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) | ![image](/assets/catglasses.jpg)
 
