@@ -7,7 +7,8 @@ subtitle: This is where I will tell my friends way too much about me!
 I am a PhD student at AINS lab. I apply AI algorithms (machine-learning) to wireless networks.
 
 # My Now Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l0d5u4xvdcvavv2a2of81kx07&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<img align="right" width="100" height="100" src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l0d5u4xvdcvavv2a2of81kx07&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)">
+
 
 [facebook]: https://https://www.facebook.com/ChheangKim/
 [//]: <> (![image](/assets/catglasses.jpg)
