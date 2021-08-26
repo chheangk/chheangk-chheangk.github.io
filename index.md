@@ -6,6 +6,7 @@ subtitle: This is where I will tell my friends way too much about me!
 # Heyyo! welcome to my portfolio!
 I am a PhD student at AINS lab. I apply AI algorithms (machine-learning) to wireless networks.
 ![image](/assets/giphy.gif)
+<img src="/assets/giphy.gif" width="250" height="250"/>
 
 # My Now Playing 🎧
 
