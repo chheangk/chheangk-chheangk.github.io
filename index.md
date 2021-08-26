@@ -12,6 +12,8 @@ My name is Kimchheang :bowtie:. I am a PhD student at AINS lab. I apply AI algor
 
 [facebook]: https://https://www.facebook.com/ChheangKim/
 
-**Publication(s):**
-1. *K. Chhea, D. Ron and J. -R. Lee, "Application of Kuramoto Model to Transmission Power Control in Wireless Body Area Networks," in IEEE Access, vol. 8, pp. 213531-213540, 2020, doi: 10.1109/ACCESS.2020.3040430.*
+
+[//]: <> (**Publication(s):**
+1. *K. Chhea, D. Ron and J. -R. Lee, "Application of Kuramoto Model to Transmission Power Control in Wireless Body Area Networks," in IEEE Access, vol. 8, pp. 213531-213540, 2020, doi: 10.1109/ACCESS.2020.3040430.*)
+
 
