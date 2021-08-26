@@ -13,5 +13,5 @@ I am a PhD student at AINS lab. I apply AI algorithms (machine-learning) to wire
 [//]: <> (![image](/assets/catglasses.jpg)
 
 **Publication(s):**
-**1.** *K. Chhea, D. Ron and J. -R. Lee, "Application of Kuramoto Model to Transmission Power Control in Wireless Body Area Networks," in IEEE Access, vol. 8, pp. 213531-213540, 2020, doi: 10.1109/ACCESS.2020.3040430.*
+1. *K. Chhea, D. Ron and J. -R. Lee, "Application of Kuramoto Model to Transmission Power Control in Wireless Body Area Networks," in IEEE Access, vol. 8, pp. 213531-213540, 2020, doi: 10.1109/ACCESS.2020.3040430.*
 
