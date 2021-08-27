@@ -3,7 +3,7 @@ layout: home
 title: Expeditor
 subtitle: This is where I will tell my friends way too much about me!
 ---
-# Heyyo! <img src="/assets/thumb.gif" width="95" height="70"/>
+# Heyyo!
 You made it here!
 My name is Kimchheang :bowtie:. I am still a student. I study/work in a laboratory located in Seoul, specializing in wireless communications/networks. I like designing things. My favorite sport is swimming. I am not much of a talker, so I am all ears.
 #### Get to know what I am listening/recently listened to below.
